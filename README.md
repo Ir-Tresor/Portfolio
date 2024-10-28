@@ -26,6 +26,9 @@ Financial Customer Service @ Orange Telecom / DR Congo
 
 CSR Technical Support @ Alu Design Civil Construction / DR Congo
 
+https://app.powerbi.com/view?r=eyJrIjoiZmE3OTUwODAtZWI5Mi00NGE2LWEwN2ItNTNlMmFjZGVjZmY1IiwidCI6IjQzMTBkZDFmLTE4MmMtNGRlNy04YWYzLWU0MmU3NDUwMzlmYyIsImMiOjEwfQ%3D%3D
+
+
 •	Keep computer systems running smoothly and ensure users get the maximum benefit from them; 
 •	Install and configure computer hardware operating systems and applications;
 •	Monitor and maintain computer systems and networks; 
